@@ -1,0 +1,5 @@
+function ClothingUploader() {
+  return <div>ClothingUploader Placeholder</div>;
+}
+
+export default ClothingUploader;
